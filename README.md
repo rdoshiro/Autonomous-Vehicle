@@ -75,6 +75,8 @@ Calibration:
 MATLAB Simulink Block Diagram: 
 <img width="948" height="373" alt="image" src="https://github.com/user-attachments/assets/d71598e8-1814-471b-96de-5e2f74f7d6fd" />
 
+CAD Model: 
+<img width="344" height="258" alt="image" src="https://github.com/user-attachments/assets/c97b35c9-d336-4aff-b2ff-1d18c7b4fbce" />
 
 
 How to use:
